@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 class App extends React.Component {
@@ -258,7 +257,7 @@ class App extends React.Component {
                                     <p class="item-intro text-muted">Project #1 DU BootCamp</p>
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/pro1.png" alt="" />
                                     <p>Find your vibe! Use VibeStreet.com as a guide to your next best destination! With so many options to choose from, you may often find yourself wondering about the best place to go. No matter the genre or venue, search for live music and entertainment near you.</p>
-                                    <p><a href="https://kbell28k.github.io/Project-One//events" >Visit VibeStreet App</a></p>
+                                    <p><a href="https://kbell28k.github.io/Project-One//events" >Visit VibeStreet App.</a></p>
                                     <p><a href="https://github.com/kbell28k/Project-One">GitHub Repo</a></p>
 
                                     <ul class="list-inline">
