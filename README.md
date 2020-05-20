@@ -1,6 +1,7 @@
-Welcome to my first React App portfolio!
+# Welcome to my first React App portfolio!
 To visit please click at: [Milena Mihneva](https://serendipitymm.github.io/reactapp/)
 
+![Screen Shot 2020-05-19 at 7 03 48 PM](https://user-images.githubusercontent.com/55516592/82393556-01dc8f80-9a04-11ea-9411-3c9e717a47f1.png)
 
 
 
